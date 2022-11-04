@@ -1,4 +1,4 @@
-/*
+
 178-> Tipo int (base decimal)
 2L-> Tipo long (base decimal)
 077L-> Tipo long (base octal)
@@ -11,4 +11,3 @@ true-> Tipo boolean
 false-> Tipo boolean
 '\u00E1'-> Tipo char
 "hola"-> String (non é un primitivo, é un obxecto)
-*/
